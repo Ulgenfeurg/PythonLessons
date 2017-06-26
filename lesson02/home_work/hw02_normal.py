@@ -14,3 +14,20 @@
 
 # Задача-4: Дан список заполненный произвольными целыми числами
 # Получите новый список, элементами которого будут только уникальные элементы исходного
+# Задача-1:
+import math
+Randynumbers = [2, -5, 8, 9, -25, 25, 4, 750, 180, 11]
+New_RandyNumbers = []
+for number in Randynumbers:
+	if (number % 2 == 0):
+		New_Numbers[:0] = [number / 4]
+	else:
+		New_Numbers[:0] = [number * 2]
+print New_Numbers
+
+# Задача-2:
+
+
+# Задача-3:
+
+# Задача-4:
