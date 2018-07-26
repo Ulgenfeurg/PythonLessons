@@ -57,3 +57,4 @@ while len(New_RandoNumbers) < n:
     New_RandoNumbers.append(random.randint(-100, 100))
 print(New_RandoNumbers)
 # Задача-4:
+# просто через сет
